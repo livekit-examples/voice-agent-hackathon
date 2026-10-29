@@ -1,3 +1,6 @@
+> [!WARNING]
+> This example is archived and no longer maintained. For current examples, see [agent-starter-python](https://github.com/livekit-examples/agent-starter-python).
+
 # Voice Agent Hackathon Template
 
 Welcome to the Voice Agent Hackathon! This template contains a ready-to-use voice agent built [LiveKit Agents](https://github.com/livekit/agents). All you need is a [LiveKit Cloud](https://cloud.livekit.io) project.
